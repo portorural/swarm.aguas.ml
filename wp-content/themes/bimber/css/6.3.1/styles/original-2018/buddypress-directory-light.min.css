@@ -1,0 +1,9 @@
+.dir-search {float: right;}
+.dir-search input {vertical-align: top;}
+.dir-search input[type=submit] {margin-left: 2px;}
+.dir-search .dir-form {clear: both;}
+.dir-search .current-member-type {font-style: italic;}
+.g1-bp-header-row .entry-title {float: left;}
+.g1-bp-header-row .dir-search {float: right;}
+#members-list.g1-collection-items {display: -ms-flexbox;display: -webkit-flex;display: flex;-ms-flex-wrap: wrap;-webkit-flex-wrap: wrap;flex-wrap: wrap;}
+#members-list.g1-collection-items .g1-collection-item {display: -ms-flexbox;display: -webkit-flex;display: flex;}
